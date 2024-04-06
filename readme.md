@@ -5,4 +5,4 @@
 
 
 
-:hand_splayed: Hi! I'm Vlad, DevOps Engineer, system architect, hiker, big fan of pet projects. More about my professional life you can find in <img src="./badges/linkedin.png" width="12">LenkedIn and about my personal life in <img src="./badges/telegram.png" width="12">Telegram(DM), all linkes in badges.
+:hand_splayed: Hi! I'm Vlad, DevOps Engineer, System Architect, hiker, big fan of pet projects. More about my professional life you can find in <img src="./badges/linkedin.png" width="12">LenkedIn and about my personal life in <img src="./badges/telegram.png" width="12">Telegram(DM), all linkes in badges.
